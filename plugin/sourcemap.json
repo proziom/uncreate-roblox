@@ -1,0 +1,79 @@
+{
+ "name": "Uncreate",
+ "className": "Script",
+ "filePaths": [
+  "src/init.server.luau"
+ ],
+ "children": [
+  {
+   "name": "Types",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Types.luau"
+   ]
+  },
+  {
+   "name": "Codec",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Codec.luau"
+   ]
+  },
+  {
+   "name": "Net",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Net.luau"
+   ]
+  },
+  {
+   "name": "Registry",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Registry.luau"
+   ]
+  },
+  {
+   "name": "Session",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Session.luau"
+   ]
+  },
+  {
+   "name": "Ui",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Ui.luau"
+   ]
+  },
+  {
+   "name": "Presence",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Presence.luau"
+   ]
+  },
+  {
+   "name": "Schema",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Schema.luau"
+   ]
+  },
+  {
+   "name": "Snapshot",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Snapshot.luau"
+   ]
+  },
+  {
+   "name": "Strings",
+   "className": "ModuleScript",
+   "filePaths": [
+    "src/Strings.luau"
+   ]
+  }
+ ]
+}
